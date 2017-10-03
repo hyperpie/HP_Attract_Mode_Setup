@@ -1,4 +1,4 @@
-# AM_Config_Display
+# HP_Attract_Mode_Setup
 
 -------
 OVERVIEW
