@@ -110,3 +110,4 @@ Anyone wishing to have their Attract Mode theme included needs to follow these g
     c.  submit a Pull Request into the AM_Config_Display repository
 
 # HP_Attract_Mode_Setup
+# HP_Attract_Mode_Setup
