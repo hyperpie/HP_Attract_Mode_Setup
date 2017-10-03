@@ -18,5 +18,5 @@ Displays Utility;Displays Utility;Attract Mode Setup;;;;;;;;;;;;;;
 Generate Favorites Romlist;Generate Favorites Romlist;Attract Mode Setup;;;;;;;;;;;;;;
 Remove All Favorites;Remove All Favorites;Attract Mode Setup;;;;;;;;;;;;;;
 Themes;Themes;Attract Mode Setup;;;;;;;;;;;;;;
-Switch to Nested or Simple;Switch to Nested or Simple;Attract Mode Setup;;;;;;;;;;;;;;
+switch;Switch to Nested or Simple;Attract Mode Setup;;;;;;;;;;;;;;
 Update Attract Mode;Update Attract Mode;Attract Mode Setup;;;;;;;;;;;;;;
